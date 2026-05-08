@@ -15,16 +15,15 @@
 
  Gosto de explorar novas tecnologias e aprimorar constantemente minhas habilidades em desenvolvimento **Full Stack**, com foco em performance, experiência do usuário e boas práticas de código.
 
-##  Conquistas & Formações
-
-**Engenharia de Software (1º semestre)** — FIAP  
-
-**TCC premiado** em terceiro lugar entre mais de 25 projetos
-
-**Localização:** São Paulo, Brasil 🇧🇷  
+##  Conquistas & Formações 
 
 
 <ul>
+ <li><strong>Engenharia de Software (4º semestre)</strong> — FIAP</li>
+
+<li><strong>TCC premiado</strong> entre mais de 25 projetos</li>
+
+<li><strong>Localização:</strong> São Paulo, Brasil</li>
 <li>
    <strong>E-mail:</strong> <a href="mailto:laradesouzalima08@gmail.com">laradesouzalima08@gmail.com</a>
 </li>
