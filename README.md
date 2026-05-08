@@ -108,13 +108,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Larabeatriz08&label=Profile%20views&color=0e75b6&style=flat"/>
-
-</div>
-
-
 
 <p align="center">
    Obrigado pela visita! Se gostou do meu perfil, considere deixar uma estrela!!
