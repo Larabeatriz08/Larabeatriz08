@@ -48,15 +48,17 @@
 
 ##  Objetivos
 
- Em busca de oportunidades de **estágio em desenvolvimento de software**, com foco em crescimento prático na área.
+<ul>
 
- Aprofundando estudos em **Inteligência Artificial** e **Machine Learning**, explorando aplicações reais e modernas.
+<li> Buscar oportunidades de <strong>estágio em desenvolvimento de software</strong>, com foco em evolução prática na área.</li>
 
- Estudando **Cibersegurança**, com interesse em boas práticas de proteção, vulnerabilidades e segurança de aplicações.
+<li> Aprofundar estudos em <strong>Inteligência Artificial</strong> e <strong>Machine Learning</strong>, explorando aplicações reais e modernas.</li>
 
- Participando e colaborando em projetos **open-source**, contribuindo com código e aprendizado contínuo.
+<li> Estudar <strong>Cibersegurança</strong>, com foco em proteção de sistemas, boas práticas e análise de vulnerabilidades.</li>
 
- Construindo e evoluindo meu **portfólio profissional**, com projetos que demonstrem minhas habilidades e evolução como desenvolvedor.
+<li> Contribuir ativamente para projetos <strong>open-source</strong>, ganhando experiência e colaborando com a comunidade.</li>
 
-</div>
+<li> Desenvolver e aprimorar meu <strong>portfólio profissional</strong>, demonstrando minha evolução como desenvolvedor.</li>
+
+</ul>
 
