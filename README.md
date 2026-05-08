@@ -6,7 +6,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/user.svg" width="18"/> ## Sobre Mim
+ ## Sobre Mim
 
 
  Sou uma estudante de **Engenharia de Software** na **FIAP**, com foco em desenvolvimento web, criação de aplicações modernas e soluções tecnológicas voltadas para problemas reais.
@@ -44,6 +44,19 @@
 ###  Ferramentas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+
+
+##  Objetivos
+
+ Em busca de oportunidades de **estágio em desenvolvimento de software**, com foco em crescimento prático na área.
+
+ Aprofundando estudos em **Inteligência Artificial** e **Machine Learning**, explorando aplicações reais e modernas.
+
+ Estudando **Cibersegurança**, com interesse em boas práticas de proteção, vulnerabilidades e segurança de aplicações.
+
+ Participando e colaborando em projetos **open-source**, contribuindo com código e aprendizado contínuo.
+
+ Construindo e evoluindo meu **portfólio profissional**, com projetos que demonstrem minhas habilidades e evolução como desenvolvedor.
 
 </div>
 
