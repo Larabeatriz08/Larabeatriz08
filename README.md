@@ -15,10 +15,32 @@
 
  Gosto de explorar novas tecnologias e aprimorar constantemente minhas habilidades em desenvolvimento **Full Stack**, com foco em performance, experiência do usuário e boas práticas de código.
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="20"/> Conquistas & Formações
+##  Conquistas & Formações
 
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135768.png" width="18"/> **Engenharia de Software (1º semestre)** — FIAP  
-<img src="https://cdn-icons-png.flaticon.com/512/3176/3176366.png" width="18"/> **TCC premiado** em terceiro lugar entre mais de 25 projetos  
-<img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="18"/> **Localização:** São Paulo, Brasil 🇧🇷  
+**Engenharia de Software (1º semestre)** — FIAP  
+**TCC premiado** em terceiro lugar entre mais de 25 projetos  
+**Localização:** São Paulo, Brasil 🇧🇷  
+
+
+##  Tecnologias & Ferramentas
+
+<div align="center">
+
+###  Linguagens
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css" />
 
 ---
+
+###  Frameworks & Bibliotecas
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+
+---
+
+###  Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+
+</div>
+
