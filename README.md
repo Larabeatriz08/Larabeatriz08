@@ -18,9 +18,12 @@
 ##  Conquistas & Formações
 
 **Engenharia de Software (1º semestre)** — FIAP  
-**TCC premiado** em terceiro lugar entre mais de 25 projetos  
+
+**TCC premiado** em terceiro lugar entre mais de 25 projetos
+
 **Localização:** São Paulo, Brasil 🇧🇷  
 
+---
 
 ##  Tecnologias & Ferramentas
 
@@ -28,13 +31,13 @@
 
 ###  Linguagens
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,c" />
 
 ---
 
 ###  Frameworks & Bibliotecas
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" />
 
 ---
 
