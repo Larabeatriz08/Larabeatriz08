@@ -45,10 +45,18 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 
+###  Cibersecurity
+
+<img src="https://skillicons.dev/icons?i=linux" />
+
+<p>
+ Ferramentas e conceitos: Wireshark • Nmap • Burp Suite • Análise de redes • Segurança de aplicações
+</p>
+
 </div>
 
 
-##  Objetivos
+##  Objetivos Atuais
 
 <ul>
 
