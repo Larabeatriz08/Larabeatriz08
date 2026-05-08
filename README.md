@@ -6,7 +6,7 @@
 
 </div>
 
-##  Sobre Mim
+<img src="https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/user.svg" width="18"/> ## Sobre Mim
 
 
  Sou uma estudante de **Engenharia de Software** na **FIAP**, com foco em desenvolvimento web, criação de aplicações modernas e soluções tecnológicas voltadas para problemas reais.
