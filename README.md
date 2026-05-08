@@ -57,12 +57,11 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 
 
-</div>
 <div align="center">
-  
-![Lara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Larabeatriz08&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larabeatriz08&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Larabeatriz08&show_icons=true&theme=radical" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larabeatriz08&layout=compact&theme=radical" />
 
 </div>
 
