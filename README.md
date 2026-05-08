@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=ff4ecd&center=true&vCenter=true&width=700&lines=Software+Engineer+in+Progress;Desenvolvedora+Web+Full+Stack;Apaixonada+por+Tecnologia+e+Inovação;Transformando+Ideias+Em+Código;" />
 
+> “Premature optimization is the root of all evil.” — Donald Knuth
+
 </div>
 
  ## Sobre Mim
@@ -57,12 +59,17 @@
 
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Larabeatriz08/Larabeatriz08/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Larabeatriz08/Larabeatriz08/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
 
 ##  Objetivos Atuais
 
 <ul>
 
-<li> Buscar oportunidades de <strong>estágio em desenvolvimento de software</strong>, com foco em evolução prática na área.</li>
+<li> Buscar oportunidades de <strong>estágio em tecnologias</strong>, com foco em evolução prática na área.</li>
 
 <li> Aprofundar estudos em <strong>Inteligência Artificial</strong> e <strong>Machine Learning</strong>, explorando aplicações reais e modernas.</li>
 
@@ -70,7 +77,7 @@
 
 <li> Contribuir ativamente para projetos <strong>open-source</strong>, ganhando experiência e colaborando com a comunidade.</li>
 
-<li> Desenvolver e aprimorar meu <strong>portfólio profissional</strong>, demonstrando minha evolução como desenvolvedor.</li>
+<li> Desenvolver e aprimorar meu <strong>portfólio profissional</strong>, demonstrando minha evolução como desenvolvedora.</li>
 
 </ul>
 
@@ -78,7 +85,7 @@
 ##  Vamos nos conectar?
 
 <p align="center">
-  Estou sempre aberto a novas conexões, colaborações e oportunidades na área de tecnologia.<br/>
+  Estou sempre aberta a novas conexões, colaborações e oportunidades na área de tecnologia.<br/>
   Fique à vontade para falar comigo por qualquer um dos canais abaixo 
 </p>
 
