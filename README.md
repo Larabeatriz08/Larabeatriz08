@@ -59,7 +59,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 
 
-<div align="center">
+<div>
 
 
 
