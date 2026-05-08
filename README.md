@@ -34,7 +34,7 @@
 </li>
 </ul>
 
----
+
 
 ##  Tecnologias & Ferramentas
 
@@ -44,13 +44,13 @@
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,c" />
 
----
+
 
 ###  Frameworks & Bibliotecas
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" />
 
----
+
 
 ###  Ferramentas
 
@@ -59,7 +59,7 @@
 
 <div align="center">
 
----
+
 
 ##  Objetivos Atuais
 
@@ -77,7 +77,7 @@
 
 </ul>
 
----
+
 
 ##  Vamos nos conectar?
 
@@ -106,7 +106,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -114,7 +113,7 @@
 
 </div>
 
----
+
 
 <p align="center">
    Obrigado pela visita! Se gostou do meu perfil, considere deixar uma estrela!!
