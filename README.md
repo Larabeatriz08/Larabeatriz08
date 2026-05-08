@@ -1,13 +1,14 @@
 <div align="center">
 
 #  Olá, eu sou a Lara Beatriz!
+---
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=ff4ecd&center=true&vCenter=true&width=700&lines=Software+Engineer+in+Progress;Desenvolvedora+Web+Full+Stack;Apaixonada+por+Tecnologia+e+Inovação;Transformando+Ideias+Em+Código;" />
 
 
 
 </div>
-
+---
  ## Sobre Mim
 
 
@@ -17,6 +18,7 @@
 
  Gosto de explorar novas tecnologias e aprimorar constantemente minhas habilidades em desenvolvimento **Full Stack**, com foco em performance, experiência do usuário e boas práticas de código.
 
+---
 ##  Conquistas & Formações 
 
 
@@ -34,7 +36,7 @@
 </li>
 </ul>
 
-
+---
 
 ##  Tecnologias & Ferramentas
 
@@ -44,13 +46,13 @@
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,c" />
 
-
+---
 
 ###  Frameworks & Bibliotecas
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" />
 
-
+---
 
 ###  Ferramentas
 
@@ -59,7 +61,7 @@
 
 <div align="center">
 
-
+---
 
 ##  Objetivos Atuais
 
@@ -77,7 +79,7 @@
 
 </ul>
 
-
+---
 
 ##  Vamos nos conectar?
 
@@ -106,14 +108,14 @@
 
 </div>
 
-
+---
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=SEUUSERNAME&label=Profile%20views&color=0e75b6&style=flat"/>
 
 </div>
 
-
+---
 
 <p align="center">
    Obrigado pela visita! Se gostou do meu perfil, considere deixar uma estrela!!
