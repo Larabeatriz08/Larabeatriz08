@@ -23,6 +23,16 @@
 
 **Localização:** São Paulo, Brasil 🇧🇷  
 
+
+<ul>
+<li>
+   <strong>E-mail:</strong> <a href="mailto:laradesouzalima08@gmail.com">laradesouzalima08@gmail.com</a>
+</li>
+<li>
+   <strong>LinkedIn:</strong> <a href="www.linkedin.com/in/lara-lima-b897932bb">Lara Beatriz</a>
+</li>
+</ul>
+
 ---
 
 ##  Tecnologias & Ferramentas
@@ -45,13 +55,6 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 
-###  Cibersecurity
-
-<img src="https://skillicons.dev/icons?i=linux" />
-
-<p>
- Ferramentas e conceitos: Wireshark • Nmap • Burp Suite • Análise de redes • Segurança de aplicações
-</p>
 
 </div>
 
@@ -71,4 +74,6 @@
 <li> Desenvolver e aprimorar meu <strong>portfólio profissional</strong>, demonstrando minha evolução como desenvolvedor.</li>
 
 </ul>
+
+
 
