@@ -27,7 +27,7 @@
 
 ##  Tecnologias & Ferramentas
 
-<div align="center">
+<div>
 
 ###  Linguagens
 
@@ -44,6 +44,8 @@
 ###  Ferramentas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+
+</div>
 
 
 ##  Objetivos
