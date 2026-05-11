@@ -61,7 +61,14 @@
 
 <div>
 
+###
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Larabeatriz08/Larabeatriz08/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Larabeatriz08/Larabeatriz08/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
 
 
 ##  Objetivos Atuais
