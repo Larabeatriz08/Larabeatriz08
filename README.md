@@ -110,4 +110,8 @@
 </p>
 
 
+<img src="https://raw.githubusercontent.com/Larabeatriz08/Larabeatriz08/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
 
