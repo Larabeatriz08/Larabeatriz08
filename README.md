@@ -56,7 +56,7 @@
 
 ###  Ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 
 ##  Objetivos Atuais
