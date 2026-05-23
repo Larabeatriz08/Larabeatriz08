@@ -110,10 +110,10 @@
 </p>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Larabeatriz08/Larabeatriz08/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Larabeatriz08/larabeatriz08/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Larabeatriz08/Larabeatriz08/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larabeatriz08&layout=compact&langs_count=6&theme=radical"/>
+
+</div>
 
 
