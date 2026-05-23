@@ -111,9 +111,7 @@
 
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larabeatriz08&layout=compact&langs_count=6&theme=radical"/>
-
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Larabeatriz08&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
 
