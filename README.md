@@ -23,7 +23,7 @@
 
 
 <ul>
- <li><strong>Engenharia de Software (1º semestre)</strong> — FIAP</li>
+ <li><strong>Engenharia de Software (2º semestre)</strong> — FIAP</li>
 
 <li><strong>TCC premiado em terceiro lugar</strong> entre mais de 25 projetos</li>
 
