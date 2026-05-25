@@ -14,7 +14,7 @@ Tenho experiência com projetos acadêmicos e pessoais, onde venho desenvolvendo
 
 Gosto de explorar novas tecnologias e aprimorar constantemente minhas habilidades em desenvolvimento **Full Stack**, com foco em performance, experiência do usuário, APIs modernas e boas práticas de código.
 
----
+
 
 ## Conquistas & Formações
 
@@ -40,7 +40,7 @@ Gosto de explorar novas tecnologias e aprimorar constantemente minhas habilidade
   </li>
 </ul>
 
----
+
 
 ## Tecnologias & Ferramentas
 
@@ -50,19 +50,19 @@ Gosto de explorar novas tecnologias e aprimorar constantemente minhas habilidade
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,cpp,rust" />
 
----
+
 
 ### Frameworks, APIs & Bibliotecas
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind" />
 
----
+
 
 ### Banco de Dados
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
----
+
 
 ### Ferramentas
 
@@ -70,7 +70,7 @@ Gosto de explorar novas tecnologias e aprimorar constantemente minhas habilidade
 
 </div>
 
----
+
 
 ## Objetivos Atuais
 
@@ -113,7 +113,7 @@ demonstrando minha evolução como desenvolvedora.
 
 </ul>
 
----
+
 
 ## Vamos nos conectar?
 
@@ -144,7 +144,7 @@ demonstrando minha evolução como desenvolvedora.
 
 </div>
 
----
+
 
 <p align="center">
   Obrigado pela visita!
