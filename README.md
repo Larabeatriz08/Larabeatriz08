@@ -44,7 +44,7 @@
 
 ###  Linguagens
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,c" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,c++" />
 
 
 
