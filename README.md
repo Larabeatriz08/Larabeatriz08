@@ -48,7 +48,7 @@ Gosto de explorar novas tecnologias e aprimorar constantemente minhas habilidade
 
 ### Linguagens
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,cpp,rust" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,cpp" />
 
 
 
