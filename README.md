@@ -94,12 +94,6 @@ boas práticas e análise de vulnerabilidades.
 </li>
 
 <li>
-Aprender <strong>Rust</strong>,
-explorando desenvolvimento de sistemas de alta performance
-e aplicações modernas.
-</li>
-
-<li>
 Contribuir ativamente para projetos
 <strong>open-source</strong>,
 ganhando experiência e colaborando com a comunidade.
