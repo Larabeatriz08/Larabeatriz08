@@ -145,9 +145,4 @@ demonstrando minha evolução como desenvolvedora.
   Se gostou do meu perfil, considere deixar uma estrela.
 </p>
 
-<div align="center">
 
-<img height="180em"
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Larabeatriz08&layout=compact&langs_count=8&theme=radical"/>
-
-</div>
